@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\bin\Debug\net5.0\DiamondApp.exe
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\bin\Debug\net5.0\DiamondApp.deps.json
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\bin\Debug\net5.0\DiamondApp.runtimeconfig.json
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\bin\Debug\net5.0\DiamondApp.runtimeconfig.dev.json
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\bin\Debug\net5.0\DiamondApp.dll
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\bin\Debug\net5.0\ref\DiamondApp.dll
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\bin\Debug\net5.0\DiamondApp.pdb
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\DiamondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\DiamondApp.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\DiamondApp.AssemblyInfo.cs
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\DiamondApp.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\DiamondApp.dll
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\ref\DiamondApp.dll
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\DiamondApp.pdb
+C:\Users\patri\source\repos\DiamondApp\DiamondApp\obj\Debug\net5.0\DiamondApp.genruntimeconfig.cache
